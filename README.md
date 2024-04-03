@@ -1,3 +1,3 @@
 ### Repositório Fedora Linux
 
-Repositório destinado ao Fedora Linux visando aprender e melhorar a utilização deste maravilhoso sistema operacional 😃
+Este repositório foi criado para aprimorar o conhecimento e a experiência no uso do Fedora Linux, um sistema operacional excepcionalmente poderoso e versátil. 😃
